@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.e83a3d52.chunk.css",
+    "main.js": "/personal-website/static/js/main.de4c66fc.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.de4c66fc.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.3250c73a.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.3250c73a.js.map",
+    "static/js/2.ba40c264.chunk.js": "/personal-website/static/js/2.ba40c264.chunk.js",
+    "static/js/2.ba40c264.chunk.js.map": "/personal-website/static/js/2.ba40c264.chunk.js.map",
+    "static/js/3.2ec0e65d.chunk.js": "/personal-website/static/js/3.2ec0e65d.chunk.js",
+    "static/js/3.2ec0e65d.chunk.js.map": "/personal-website/static/js/3.2ec0e65d.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "static/css/main.e83a3d52.chunk.css.map": "/personal-website/static/css/main.e83a3d52.chunk.css.map",
+    "static/js/2.ba40c264.chunk.js.LICENSE.txt": "/personal-website/static/js/2.ba40c264.chunk.js.LICENSE.txt",
+    "static/media/Tanvi.6d2a6a87.png": "/personal-website/static/media/Tanvi.6d2a6a87.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3250c73a.js",
+    "static/js/2.ba40c264.chunk.js",
+    "static/css/main.e83a3d52.chunk.css",
+    "static/js/main.de4c66fc.chunk.js"
+  ]
+}
